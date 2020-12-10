@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeHouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCXPHjA9UeBM8AtWg5kM7rOjvl7oBOVIsM</string>
+</resources>
